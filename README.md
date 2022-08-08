@@ -1,3 +1,1 @@
-# Loom
-
-Zoom Clone using NodeJS, WebRTC and Websockets.
+# Socket IO Tutorial
